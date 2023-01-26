@@ -1,1 +1,6 @@
-// Write your solution in this file!
+function countdown(){
+   let countD = 10
+    while(countD >= i){
+        return countD--
+    }
+}
